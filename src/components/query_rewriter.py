@@ -1,4 +1,13 @@
 """
+Project: Advanced RAG Pipeline
+Author: Lucas Henrique da S. Medeiros
+GitHub: https://github.com/apoll018
+Created: 2026
+
+Este código é de autoria original. Uso sujeito à licença do projeto.
+"""
+
+"""
 Módulo de Reescrita de Consulta (Query Rewriter)
 ------------------------------------------------
 Responsável por refinar a pergunta do usuário antes da busca.

@@ -1,3 +1,11 @@
+"""
+Project: Advanced RAG Pipeline
+Author: Lucas Henrique da S. Medeiros
+GitHub: https://github.com/apoll018
+Created: 2026
+
+Este código é de autoria original. Uso sujeito à licença do projeto.
+"""
 
 import time
 from typing import List, Dict, Any

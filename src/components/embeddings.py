@@ -1,3 +1,12 @@
+"""
+Project: Advanced RAG Pipeline
+Author: Lucas Henrique da S. Medeiros
+GitHub: https://github.com/apoll018
+Created: 2026
+
+Este código é de autoria original. Uso sujeito à licença do projeto.
+"""
+
 # Diz para o sistema: "Não tente conectar na internet. Use o que tem no disco."
 import os
 os.environ['HF_HUB_OFFLINE'] = '1' 
@@ -6,13 +15,6 @@ from typing import List
 from langchain_huggingface import HuggingFaceEmbeddings
 from dotenv import load_dotenv
 
-"""
-Módulo de Embeddings - Serafim 100M (PT-BR)
--------------------------------------------
-Utiliza o modelo 'PORTULAN/serafim-100m-portuguese-pt-sentence-encoder-ir'.
-Especialista em Busca Semântica (IR) em Português.
-Tamanho: ~100M parâmetros (Equilibrado para CPU).
-"""
 BASE_DIR = os.path.abspath(os.path.join(os.path.dirname(__file__), "../.."))
 load_dotenv(os.path.join(BASE_DIR, "data", ".env"))
 
@@ -61,7 +63,10 @@ def get_embedding_function():
 
     print("⏳ [INIT] Carregando Embeddings E5-Base (Singleton com Wrapper)...")
     
-    model_name = r"C:\Users\51-02429\.cache\huggingface\hub\models--intfloat--multilingual-e5-base\snapshots\835193815a3936a24a0ee7dc9e3d48c1fbb19c55"
+    model_name = os.getenv("PATH_MODEL_EMBEDDINGS")
+
+    if not model_name:
+        raise ValueError("PATH_MODEL_EMBEDDINGS não definido no .env")
     
     # Instanciamos a NOSSA classe Wrapper, não a padrão
     _MODELO_EMBEDDING_CACHE = E5EmbeddingsWrapper(

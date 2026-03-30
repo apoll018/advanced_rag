@@ -1,8 +1,10 @@
 """
-Módulo de Reranking (Refinamento)
----------------------------------
-Utiliza o FlashRank (baseado em ONNX/T5) para reordenar os documentos recuperados.
-É otimizado para execução em CPU, sendo muito mais rápido que Cross-Encoders tradicionais.
+Project: Advanced RAG Pipeline
+Author: Lucas Henrique da S. Medeiros
+GitHub: https://github.com/apoll018
+Created: 2026
+
+Este código é de autoria original. Uso sujeito à licença do projeto.
 """
 
 """

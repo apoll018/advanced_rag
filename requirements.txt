@@ -1,0 +1,42 @@
+# Core LangChain
+langchain
+langchain-core
+langchain-community
+langchain-text-splitters
+langchain-classic
+rank_bm25
+
+# LLMs / integrações
+langchain-google-genai
+langchain-ollama
+langchain-huggingface
+openai
+ollama
+
+# Banco vetorial
+langchain-chroma
+
+# Modelos / hardware
+sentence-transformers
+transformers
+torch
+
+# Loader PDF
+PyMuPDF
+
+# Reranker
+flashrank
+
+# Frontend
+streamlit
+
+# Utilitários
+python-dotenv
+markdown
+pdf2docx
+
+# RAGAS e dependências internas
+ragas
+datasets
+pandas
+pyarrow

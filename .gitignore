@@ -1,0 +1,37 @@
+# 🔐 Variáveis de ambiente
+.env
+
+# 🐍 Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# 🧪 Ambiente virtual
+.venv/
+venv/
+env/
+
+# 📦 Dependências / build
+build/
+dist/
+*.egg-info/
+
+# 🧠 Banco vetorial / embeddings
+storage/chroma_db/
+*.pkl
+
+# 📊 Dados (opcional - cuidado!)
+data/pdfs/
+data/logs/
+
+# 📝 Logs
+logs/
+*.log
+
+# 💻 VS Code
+.vscode/
+
+# 🧾 Sistema
+.DS_Store
+Thumbs.db

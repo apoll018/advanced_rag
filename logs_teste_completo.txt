@@ -1,0 +1,211 @@
+RELATÓRIO FULL - 2025-11-26 19:49:12.116286
+========================================
+
+
+>>> PERGUNTA: Qual é o limite de valor para pequenas despesas?
+--------------------------------------------------
+
+📚 CHUNKS RECUPERADOS (2):
+
+   📄 [Rank 1] NOR_013
+      Score: 0.9795 | Expandido: SIM
+      Hierarquia: 5. DEFINIÇÕES > 5.1 Os seguintes termos, quando iniciados por letra maiúscula, no singular ou no plural, masculino ou feminino, são usados nesta Norma com os significados abaixo especificados:
+      ==============================
+.  
+“Patrocínio” é qualquer transferência ou contribuição, pecuniária ou não, feita pelo Grupo CCR para um evento organizado por Terceiros, com o objetivo de agregar valor à marca, fortalecer um conceito, gerar reconhecimento ou ampliar o relacionamento do Grupo CCR com seus públicos de interesse e com a sociedade em geral
+.  
+**“**Pequenas Despesas**”:** são os gastos por meio dos recursos do Fundo Fixo de Caixa relativos, limitado ao valor de R$ 1.200 (mil e duzentos mil reais) por comprovante de despesa.  
+“Presente” é qualquer coisa, benefício ou vantagem a que possa ser atribuído valor monetário, e que seja recebido ou ofertado em decorrência de uma relação comercial e pela qual o receptor não tenha que pagar o seu respectivo valor de mercado
+. Sua distribuição é direcionada e pessoal, não se confundindo com os Brindes.  
+“Reembolso de Despesas” significa o ressarcimento de gastos realizados por Colaboradores ou Terceiros, com a utilização de recursos próprios, em nome do Grupo CCR ou vinculado a um fornecimento ou prestação de serviços.  
+“Responsável” é o Colaborador responsável pela área de Administração e Finanças das Unidades de Negócio, das Unidades GBS, das Divisões e da CCR
+      ==============================
+
+   📄 [Rank 2] NOR_007
+      Score: 0.7389 | Expandido: SIM
+      Hierarquia: 8. SOLICITAÇÕES DE VIAGENS CORPORATIVAS > 8.12.2 Fica estabelecido que o limite máximo para Reembolso de Despesas é de R$ 80,00 (oitenta reais) para o almoço, R$ 80,00 (oitenta reais) para o jantar e R$ 50,00 (cinquenta reais) para o café da manhã. Estes valores são para Despesas individuais, podendo ser cumulativas por refeição (não se permitindo acumular valor de uma refeição para outra ou de um dia para outro). Exemplo de despesa cumulativa: almoço em um estabelecimento + sobremesa em outro estabelecimento no mesmo dia que, juntos, totalizem até R$80,00.
+      ==============================
+### 8.12.1 As Despesas com refeições dos Administradores, Conselheiros Fiscais e Colaboradores em Viagens Corporativas devem ser reembolsadas pelo Grupo CCR, mediante apresentação dos respectivos comprovantes fiscais de pagamento.
+### 8.12.2 Fica estabelecido que o limite máximo para Reembolso de Despesas é de R$ 80,00 (oitenta reais) para o almoço, R$ 80,00 (oitenta reais) para o jantar e R$ 50,00 (cinquenta reais) para o café da manhã. Estes valores são para Despesas individuais, podendo ser cumulativas por refeição (não se permitindo acumular valor de uma refeição para outra ou de um dia para outro)
+. Exemplo de despesa cumulativa: almoço em um estabelecimento + sobremesa em outro estabelecimento no mesmo dia que, juntos, totalizem até R$80,00.  
+(i) O valor de reembolso de alimentação será revisado anualmente com base em pesquisa de mercado e/ou em casos excepcionais decorrentes de alterações significativas na política econômica do país e será elaborada pela área de CSC Facilities.
+      ==============================
+
+⏱️ Tempo: 39.10s
+
+>>> PERGUNTA: Qual é a versão da norma NBR ISO/IEC 27001 utilizada como referência fundamental?
+--------------------------------------------------
+
+📚 CHUNKS RECUPERADOS (2):
+
+   📄 [Rank 1] NOR_023
+      Score: 0.2204 | Expandido: SIM
+      Hierarquia: 4.1 Esta Norma foi desenvolvida baseando-se, fundamentalmente, nas determinações previstas na NBR ISO/IEC 27001:2022 - Sistemas de Gestão de Segurança da Informação, NBR ISO/IEC 27002:2022 - Código de prática para controles de Segurança da Informação, NBR ISO/IEC 27701:2019 – Gestão da Privacidade da Informação, bem como nos seguintes documentos:
+      ==============================
+### 3.1 As disposições desta Norma se aplicam ao Grupo CCR, bem como seus respectivos Administradores, Colaboradores e Terceiros contratados para atuar em nome do Grupo CCR, e servirão como premissa do Grupo CCR para as empresas de controle compartilhado com outros sócios, quando da ausência de normativos específicos.  
+**4. REFERÊNCIAS**
+### 4.1 Esta Norma foi desenvolvida baseando-se, fundamentalmente, nas determinações previstas na NBR ISO/IEC 27001:2022 - Sistemas de Gestão de Segurança da Informação, NBR ISO/IEC 27002:2022 - Código de prática para controles de Segurança da Informação, NBR ISO/IEC 27701:2019 – Gestão da Privacidade da Informação, bem como nos seguintes documentos:  
+i. Código de Conduta Ética;
+ii. POL 000 - Política de Regulamentação de Instrumentos Normativos;  
+iii
+. POL 000 - Política de Regulamentação de Instrumentos Normativos;  
+iii. POL 010 - Política de Gestão de Consequências e Não Retaliação; iv. POL 023 – Política de Resiliência Empresarial e Gestão de Crises; v. NOR 002 – Norma de Classificação e Controle da Informação; vi. NOR 008 - Norma de Segurança da Informação;
+vii. NOR 010 - Norma de Comunicação Institucional;
+viii. NOR 027 - Norma de Gestão de Dados Pessoais;
+ix. IN 001 - Instrução Normativa de Recuperação de Caixa de E-mail; x
+      ==============================
+
+   📄 [Rank 2] NOR_008
+      Score: 0.2201 | Expandido: SIM
+      Hierarquia: 4.1 Esta Norma foi desenvolvida baseando-se, fundamentalmente, nas
+      ==============================
+### 3.1 As disposições desta Norma se aplicam ao Grupo CCR, bem como seus  
+respectivos administradores, colaboradores e terceiros contratados para atuar em  
+nome do Grupo CCR e servirão como premissa para as empresas de controle  
+compartilhado com outros sócios, quando da ausência de normativos específicos.  
+**4. REFERÊNCIAS**
+### 4.1 Esta Norma foi desenvolvida baseando-se, fundamentalmente, nas  
+determinações previstas na NBR ISO/IEC 27001:2022 - Sistemas de Gestão de  
+Segurança da Informação, NBR ISO/IEC 27002:2022 - Código de prática para  
+controles de Segurança da Informação, NBR ISO/IEC 27701:2019 – Gestão da  
+Privacidade da Informação, bem como nos seguintes documentos:  
+i. Código de Conduta Ética do Grupo CCR;  
+ii. POL 000 - Política de Regulamentação de Instrumentos Normativos;  
+iii
+. POL 000 - Política de Regulamentação de Instrumentos Normativos;  
+iii. POL 001 – Política da Empresa Limpa e Combate à Corrupção e ao Suborno;  
+iv. POL 010 – Política de Gestão de Consequências e Não Retaliação;  
+v. POL 023 – Política de Resiliência Empresarial e Gestão de Crises;  
+vi. NOR 002 – Norma de Classificação e Controle de Informações;  
+vii. NOR 010 - Norma de Comunicação Institucional;  
+viii. NOR 023 – Norma de Uso de Recursos de Tecnologia de Informação;  
+ix
+      ==============================
+
+⏱️ Tempo: 17.47s
+
+>>> PERGUNTA: Qual foi um dos principais tópicos de alteração na Versão 04 (10/03/2025) do documento sobre Uso de Recursos de TI?
+--------------------------------------------------
+
+📚 CHUNKS RECUPERADOS (1):
+
+   📄 [Rank 1] NOR_023
+      Score: 0.4164 | Expandido: SIM
+      Hierarquia: 24.2. Adicionalmente, o Grupo CCR encoraja seus Colaboradores ou
+      ==============================
+de arquivos, segurança física para instalações de tecnologia da informação, descarte de equipamentos eletrônicos, mesa limpa e tela limpa, outras diretrizes.
+22/07/2024 03 Revisão sem alteração de conteúdo
+10/03/2025 04 Revisão do Instrumento Normativo – criação de novos tópicos de proteção, como ameaças internas, ameaças externas, controle e proteção de ambiente físico de tecnologia, entre outras revisões de texto no geral
+.  
+**29. APROVAÇÕES**  
+| NOR 023 | Norma de Uso de Recursos de Tecnologia da Informação | 04 | 10/03/2025 a 10/03/2027
+**EMISSOR: FABIO ODONI**
+**REVISOR: TADEU AUGUSTO RODRIGUES, LUIS FERNANDO ROSA DELIBERADO EM REUNIÃO DA DIRETORIA EXECUTIVA (RDE 10/03/2025)**
+      ==============================
+
+⏱️ Tempo: 16.15s
+
+>>> PERGUNTA: Qual Política do Grupo lida com Gestão de Consequências e Não Retaliação?
+--------------------------------------------------
+
+📚 CHUNKS RECUPERADOS (5):
+
+   📄 [Rank 1] NOR_001
+      Score: 0.9890 | Expandido: SIM
+      Hierarquia: 15. EXECUÇÃO, MONITORAMENTO E ATUALIZAÇÃO > 15.2 O desrespeito às disposições desta Norma sujeitará os Administradores e Colaboradores às ações disciplinares cabíveis nos termos da “POL 010 - Política de Gestão de Consequências e Não Retaliação” do Grupo CCR, sem prejuízo de outras medidas legais cabíveis.
+      ==============================
+## 15. EXECUÇÃO, MONITORAMENTO E ATUALIZAÇÃO  
+### 15.1 Caberá à área de *Supply Chain*, com reporte direto ao Comitê de Estratégia, monitorar o cumprimento desta Norma.
+### 15.2 O desrespeito às disposições desta Norma sujeitará os Administradores e Colaboradores às ações disciplinares cabíveis nos termos da “POL 010 - Política de Gestão de Consequências e Não Retaliação” do Grupo CCR, sem prejuízo de outras medidas legais cabíveis.
+### 15.3 Qualquer Administrador, Conselheiro Fiscal ou colaborador que tenha ou venha a ter conhecimento de qualquer violação à presente Norma deverá registrar uma ocorrência através de algum dos canais de comunicação do Grupo CCR abaixo:  
+| **Canal Confidencial** | **Acesso**
+| Web | *<https://canalconfidencial.com.br/canalconfidencialccr/>*
+| Telefone | 0800 721 0759
+**16
+      ==============================
+
+   📄 [Rank 2] PRO_003
+      Score: 0.9888 | Expandido: SIM
+      Hierarquia: 8.1. O desrespeito às disposições deste Procedimento sujeitará os
+      ==============================
+### 7.6 É responsabilidade daLocadora:  
+i. Entregar e retirar o veículo conforme solicitado pelo departamento de frotas;  
+ii. Após a devolução do veículo, dar baixa em seu sistema e providenciar a  
+emissão das faturas para pagamento.  
+**8. DISPOSIÇÕES FINAIS**
+## 8.1. O desrespeito às disposições deste Procedimento sujeitará os  
+Administradores e Colaboradores às ações disciplinares cabíveis nos termos da  
+“POL 010 - Política de Gestão de Consequências e Não Retaliação” do Grupo CCR,  
+sem prejuízo de outras medidas legais cabíveis.
+## 8.2. Adicionalmente, o Grupo CCR encoraja seus Colaboradores ou  
+Administradores, bem como quaisquer Terceiros, a, sempre que souberem ou  
+tiverem indícios do descumprimento de políticas e normas da empresa, ou leis  
+vigentes no país, a registrarem ocorrência nos seguintes canais:  
+| **Canal** | **Acesso**
+| Web | https://canalconfidencial.com.br/canalconfidencialccr/
+| Telefone | 0800 721 0759
+      ==============================
+
+   📄 [Rank 3] PRO_005
+      Score: 0.9888 | Expandido: SIM
+      Hierarquia: 8.1. O desrespeito às disposições deste Procedimento sujeitará os
+      ==============================
+## 8.1. O desrespeito às disposições deste Procedimento sujeitará os  
+Administradores e Colaboradores às ações disciplinares cabíveis nos termos da  
+“POL 010 - Política de Gestão de Consequências e Não Retaliação” do Grupo CCR,  
+sem prejuízo de outras medidas legais cabíveis.
+## 8.2. Adicionalmente, o Grupo CCR encoraja seus Colaboradores ou  
+Administradores, bem como quaisquer Terceiros, a, sempre que souberem ou  
+tiverem indícios do descumprimento de políticas e normas da empresa, ou leis  
+vigentes no país, a registrarem ocorrência nos seguintes canais:  
+| **Canal** | **Acesso**
+| Web | <https://canalconfidencial.com.br/canalconfidencialccr/>
+| Telefone | 0800 721 0759
+**10
+      ==============================
+
+   📄 [Rank 4] NOR_010
+      Score: 0.9862 | Expandido: SIM
+      Hierarquia: 9. DISPOSIÇÕES FINAIS > 9.1 O desrespeito às disposições desta Norma sujeitará os Administradores e Colaboradores às ações disciplinares cabíveis nos termos da POL 010 - Política de Gestão de Consequências e Não Retaliação do Grupo CCR, sem prejuízo de outras medidas legais cabíveis.
+      ==============================
+(palestras, congressos, simpósios, entre outros);
+(viii) Ao participar de eventos externos, utilizar o modelo de apresentação padrão em formato *power point* disponibilizado na intranet (meu mundo> sua unidade> materiais de comunicação);
+## 9. DISPOSIÇÕES FINAIS  
+### 9.1 O desrespeito às disposições desta Norma sujeitará os Administradores e Colaboradores às ações disciplinares cabíveis nos termos da POL 010 - Política de Gestão de Consequências e Não Retaliação do Grupo CCR, sem prejuízo de outras medidas legais cabíveis.
+## 9.2. Adicionalmente, o Grupo CCR encoraja seus Colaboradores ou  
+Administradores, bem como quaisquer terceiros, a, sempre que souberem ou tiverem indícios do descumprimento de políticas e normas da empresa, ou leis vigentes no país, a registrarem relatos nos seguintes canais:  
+| **Canal** | **Acesso**
+| Web | *https://canalconfidencial.com.br/canalconfidencialccr/*
+| Telefone | 0800 721 0759
+      ==============================
+
+   📄 [Rank 5] NOR_023
+      Score: 0.9845 | Expandido: SIM
+      Hierarquia: 9. PROTEÇÃO CONTRA AMEAÇAS EXTERNAS > 10.9 Os colaboradores desligados ou com contrato de trabalho expirado devem ter suas contas de acesso revogadas e não devem ser reativadas ou reutilizadas para qualquer finalidade. No caso de transferência de colaboradores a respectiva conta deve ser desativada, sendo criada uma conta de acesso adequada às novas atribuições do colaborador e não será permitida a extração ou cópia de dados, aplicativos ou qualquer outro item que esteja ligado ao perfil do colaborador, salvo em casos de solicitações de investigações internas realizadas pela equipe de Compliance, qualquer descumprimento dessa Norma estará sujeito a sanções previstas no Código de Conduta Ética do Grupo CCRe *POL 010 - Política de Gestão de Consequências e Não Retaliação*.
+      ==============================
+. No caso de transferência de colaboradores a respectiva conta deve ser desativada, sendo criada uma conta de acesso adequada às novas atribuições do colaborador e não será permitida a extração ou cópia de dados, aplicativos ou qualquer outro item que esteja ligado ao perfil do colaborador, salvo em casos de solicitações de investigações internas realizadas pela equipe de Compliance, qualquer descumprimento dessa Norma estará sujeito a sanções previstas no Código de Conduta Ética do Grupo CCRe
+estará sujeito a sanções previstas no Código de Conduta Ética do Grupo CCRe *POL 010 - Política de Gestão de Consequências e Não Retaliação*.
+### 10.10 As áreas funcionais devem manter uma lista de transações críticas dos sistemas de informação e os perfis de acesso devem ser criados e atribuídos considerando a relevância dessas transações. Os perfis devem contemplar a segregação de funções sendo separados por níveis de autorização e revisados periodicamente.
+      ==============================
+
+⏱️ Tempo: 23.13s
+
+>>> PERGUNTA: O que é definido como 'Informação Restrita'?
+--------------------------------------------------
+
+📚 CHUNKS RECUPERADOS (1):
+
+   📄 [Rank 1] NOR_002
+      Score: 0.9822 | Expandido: SIM
+      Hierarquia: Geral
+      ==============================
+.  
+| **Sigilo** | Interno
+“Informação Interna” São informações divulgadas ou acessadas por todos os colaboradores internos e prestadores de serviço, mas que devem ser utilizadas com precaução, pois, caso sejam reveladas inadvertidamente, podem causar danos ao negócio do grupo
+.  
+“Informação Restrita” São informações que podem ou devem ser divulgadas somente a determinados grupos, áreas ou cargos diretamente relacionados ao assunto e que devem ser utilizadas com muita cautela, pois, caso sejam reveladas inadvertidamente, podem causar sérios danos à imagem ou ao negócio da Motiva
+.  
+“Informação Confidencial” São informações de cunho relevante que requerem sigilo absoluto e tratamento especial pelas áreas responsáveis, pois, caso sejam reveladas sem autorização ou sejam alvo de acessos indevidos, poderão gerar sérios prejuízos financeiros, legais, contratuais, de reputação, imagem ou estratégias da Motiva
+      ==============================
+
+⏱️ Tempo: 15.01s
